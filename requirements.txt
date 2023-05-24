@@ -8,3 +8,4 @@ streamlit==1.22.0
 chromadb
 google-auth
 google-api-python-client
+
